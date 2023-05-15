@@ -1,1 +1,3 @@
-estamos trabalhando para melhorar os conceitos
+estamos estudando para melhorar os conceitos
+
+compreendi o funcionamento do git push
